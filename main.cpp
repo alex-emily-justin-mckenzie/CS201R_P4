@@ -1,3 +1,7 @@
+// Alex Arbuckle, Emily Foley, Justin Thomas, McKenzie Humann
+// CS201R : Program 04
+// 11 October 2019
+
 #include "functions.h"
 #include <iostream>
 #include <vector>
