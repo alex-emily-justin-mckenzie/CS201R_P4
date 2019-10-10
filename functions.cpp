@@ -172,6 +172,8 @@ bool vendingMachineCheck(int intParameter, vector<double> vectorPrice, vector<do
 			cout << "\nInput is invalid.\n\n<Input 0 to Exit>\nInput : $";
 
 		}
+		
+		if (doubleVariable > 5) { cout << "\nMaximum of $5, sorry.\n"; continue; }
 
 		if (doubleVariable == 0) { cout << "\nHave a nice day!\n";  return false; }
 
